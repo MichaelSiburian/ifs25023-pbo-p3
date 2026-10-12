@@ -1,0 +1,10 @@
+Berhasil menambah barang: [1] Pensil | Stok: 50 | Kategori: Alat Tulis
+Berhasil menambah barang: [2] Buku | Stok: 20 | Kategori: Alat Tulis
+Berhasil menambah barang: [3] Mouse | Stok: 10 | Kategori: Elektronik
+Berhasil mengubah stok barang.
+Hasil Pencarian: "Mouse"
+[3] Mouse | Stok: 100 | Kategori: Elektronik
+Daftar Barang (Terurut):
+[2] Buku | Stok: 20 | Kategori: Alat Tulis
+[1] Pensil | Stok: 50 | Kategori: Alat Tulis
+[3] Mouse | Stok: 100 | Kategori: Elektronik
